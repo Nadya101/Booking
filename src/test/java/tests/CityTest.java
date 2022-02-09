@@ -38,4 +38,5 @@ public class CityTest extends BaseTest {
         Assert.assertEquals(searchResultsPage.getHotelRating("ApartHotel Durini"), "8.7");
     }
 
+
 }
